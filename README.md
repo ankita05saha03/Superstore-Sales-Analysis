@@ -8,7 +8,7 @@ This project involves an in-depth analysis of sales data from a fictional supers
 
 The dataset used for this analysis is a collection of sales records, including details on products, customers, and sales transactions. It includes the following columns:
 
-*Order ID
++Order ID
 *Order Date
 *Ship Date
 *Ship Mode
