@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project involves an in-depth analysis of sales data from a fictional superstore. The goal is to uncover insights and trends in the data that can help improve the store's business strategies and decision-making processes.
+This project involves an in-depth analysis of sales data from a superstore. The goal is to uncover insights and trends in the data that can help improve the store's business strategies and decision-making processes.
 
 # Dataset
 
