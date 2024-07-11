@@ -37,3 +37,16 @@ The following tools and libraries were used in this project:
 * NumPy: For numerical operations.
 * Matplotlib and Seaborn: For data visualization.
 * Google Colab: For organizing and presenting the analysis.
+
+# Power BI Visualization
+
+In addition to the Python-based analysis, I created Power BI visualizations to provide interactive insights into the superstore's performance. The Power BI dashboard includes two main pages:
+
+* Total Sales Analysis: This page provides a comprehensive overview of the total sales, allowing users to explore sales trends, distribution, and other relevant metrics.
+* Profit Analysis: This page focuses on analyzing the store's profitability, offering insights into profit margins, contributions by different segments, and other key profit-related metrics.
+
+Navigation buttons were added to facilitate easy switching between these pages, enhancing the user experience and making the data exploration more intuitive.
+
+![image](https://github.com/ankita05saha03/Superstore-Sales-Analysis/assets/143898335/0d36787e-05ca-4ea0-9034-6074c30e6aba)
+
+![image](https://github.com/ankita05saha03/Superstore-Sales-Analysis/assets/143898335/61e41b7a-0ba6-44b5-b505-96e35520fde3)
